@@ -1,1 +1,1 @@
-# faq-collapse
+mini project on faq collapse
